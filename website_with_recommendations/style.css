@@ -3,7 +3,7 @@ body {
     padding: 0;
     background: #FFF;
     overflow-x: hidden;
-    -webkit-font-smoothing: antialiased;
+    
     -moz-osx-font-smoothing: grayscale;
 }
 
@@ -36,7 +36,7 @@ a:hover {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    position: relative;
+    position: relative ;
 }
 
 .bloc .container {
@@ -78,6 +78,10 @@ a:hover {
 
 .bg-t-edge {
     background: top no-repeat;
+}
+
+.row-bloc-5 {
+    position: relative;
 }
 
 .bloc-bg-texture::before {
@@ -778,14 +782,26 @@ h4 {
     color: #F3976C!important;
 }
 
+.text-banner {
+    color: #FFFFFF!important;
+}
+
+.text-footer {
+    color: #000000!important;
+}
+
+.txt-banniere {
+    color: #FFFFFF!important;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
@@ -1040,3 +1056,4 @@ h4 {
         text-align: center;
     }
 }
+
