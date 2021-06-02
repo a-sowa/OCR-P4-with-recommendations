@@ -9,24 +9,28 @@ Here are the instructions which were given :
 #### Here is the  [Initial Website](https://a-sowa.github.io/OCR-P4-without-recommendations/)
 
 ----
-## 1 - SEO Audit and Report.
+## 1 - SEO Audit
 
 Select 10 recommendations to ehance the website SEO. **1 of them must be about speed and 1 of them must be about accessibility.**
 
-### [Use this table for your recommendations](readme_rsrc/P4_01_analyse.pdf)
+#### Use [this table](readme_rsrc/Modele-audit-SEO.xlsx) for your recommendations
 
 ## 2 - Website Optimisation
 
 Apply your recommendations to the website by **only using HTML & CSS**. Make sure that **is still responsive after your changes** and has **no errors in the HTML & CSS validator**. 
 
-## 3 - Results Comparison
+## 3 - Report & Results Comparison
 
 Write a report explaining your changes and showing the improvement of the site loading speed.
 **Show it with performances analisis screenshots.**
 
 ---
 
-#### [The report](https://docs.google.com/document/d/1Ud_d6flnjfbMgD-MbruEAGi6K_7ua-qb3fwVyNcP6xI/edit?usp=sharing)
+### Here is [my audit](https://docs.google.com/spreadsheets/d/1IT6Y8Np9ddiDMdi4J9KLG7-CMl3-07xuTIgoE5x4vxg/edit?usp=sharing)
+
+### Here is the [Website with changes](https://a-sowa.github.io/OCR-P4-with-recommendations/)
+
+### Here is [my report](https://docs.google.com/document/d/1Ud_d6flnjfbMgD-MbruEAGi6K_7ua-qb3fwVyNcP6xI/edit?usp=sharing)
 
 ### Performances Sceenshots : 
 
@@ -37,5 +41,3 @@ Initial Website :
 With my changes :
 
 ![Website with changes perfomances screenshot](readme_rsrc/website_with_changes_screenshot.png)
-
-### Here is the  [Website with changes](https://a-sowa.github.io/OCR-P4-with-recommendations/)
